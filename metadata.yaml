@@ -1,0 +1,31 @@
+_repo: The-Indian-Captive--13-A-narrative-of-the-adventures-and-sufferings-of-Matthew-Brayton-in-his__32228
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brayton, Matthew
+    birthdate: 1818
+    deathdate: 1862
+    gutenberg_agent_id: '35738'
+    url: http://www.gutenberg.org/2009/agents/35738
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brayton, Matthew, 1818-1862'
+- !lcsh 'Indian captivities -- West (U.S.)'
+- !lcsh 'Shoshoni Indians -- History'
+- !lcc 'E011'
+- !lcsh 'United States -- Biography'
+title: "The Indian Captive\r\nA narrative of the adventures and sufferings of Matthew\
+  \ Brayton in his thirty-four years of captivity among the Indians of north-western\
+  \ America"
+url: http://www.gutenberg.org/ebooks/32228
